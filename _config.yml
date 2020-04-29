@@ -1,1 +1,43 @@
 theme: jekyll-theme-cayman
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Photography for everyone</title>
+
+  </head>
+
+  <body>
+
+      <h1>Birdwatching</h1>
+      <img src="logo.png" alt="mylogo">
+
+
+      <ul>
+        <li><span>Home</span></li>
+        <li><a href="#">Photos</a></li>
+        <li><a href="#">Animatio</a></li>
+        <li><a href="#">Graphicdesign</a></li>
+      </ul>
+
+
+      <h2>Welcome</h2>
+
+      <p>Hello my friendly people. I want to shop up my very first examples of pictures. I hope you have fun during exploring my Website! If you have any things you want to know, feel free to contact me.</p>
+
+      <p>Explore yourself. Find out who you are. Follow the really nice steps in life. Take pictures - be happy.</p>
+
+      <h2>Favourite photos</h2>
+
+      <a href="foto1.jpg"><img src="foto1_big.jpg" alt="Find the right definition in this picture ></a>
+      <a href="foto2.jpg"><img 
+      <a href="foto3.jpg"><img 
+      <a href="foto4.jpg"><img 
+
+
+      <p></p>
+
+      <p><a href="eagle-emblem.jpg">Icon</a> by OFM Pictures.</p>
+
+  </body>
+</html>
